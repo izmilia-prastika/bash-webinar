@@ -1,1 +1,1 @@
-echo "<h1> idn mantab versi $BUILD_NUMBER </h1>" > index.html
+echo "<h1><marquee> idn jaya!! versi $BUILD_NUMBER</marquee></h1>" > index.html
